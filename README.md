@@ -1,6 +1,8 @@
-# Problem 3 Support Code
+# Take-Home Support Code
 
-This repository contains the runnable Python support code for Problem 3.
+This repository contains support files for the take-home assignment.
+
+The copyable YAML automaton definition for Problem 1 is in `problem1/automaton_l1.yaml`.
 
 ## Run the Python Tests
 
